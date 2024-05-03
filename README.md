@@ -1,4 +1,4 @@
-# Meu desenvolvimento front-end.
+# Meus projetos front-end.
 ### Todas os links para as minhas páginas estão nesse repositório.
 
 - ### Página responsiva de uma Loja virtual de roupas.
