@@ -24,5 +24,9 @@
 - ### Calculadora virtual.
 - Repositório: https://github.com/LucasSrSilva/Calculadora
 - Pages: https://lucassrsilva.github.io/Calculadora/
+
+- ### Social links page.
+- Repositório: https://github.com/LucasSrSilva/linktree-page
+- Pages: https://lucassrsilva.github.io/linktree-page/
   
 
